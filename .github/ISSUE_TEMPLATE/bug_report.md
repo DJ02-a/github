@@ -11,6 +11,7 @@ assignees: ''
 - OS :
 - GPU Device :
 - commit link : 
+- additional conda env : ex) pytorch == 1.7.0 , tensorflow == 2.3.0, python == 3.7 ... 
 
 **버그에 대한 설명**
 어떻게, 어떤 식으로 발생했는지 적어주세요.
