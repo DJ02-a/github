@@ -1,38 +1,22 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 발생한 bug에 대해서 자세히 설명해 주세요.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Desktop info**
+- OS :
+- GPU Device :
+- commit link : 
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**버그에 대한 설명**
+어떻게, 어떤 식으로 발생했는지 적어주세요.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Screen shot(선택 사항)**
+- 작성하지 않을 시 지워주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Comments(선택 사항)**
+버그를 해결하기 위한 아이디어를 작성해 주세요.
